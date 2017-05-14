@@ -1,0 +1,2 @@
+ftp.bcitdev.com		sever
+files.bcit.ca		database
